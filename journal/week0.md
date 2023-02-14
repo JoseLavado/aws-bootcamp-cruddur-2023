@@ -1,4 +1,7 @@
 # Week 0 — Billing and Architecture
+Student portal: https://student.cloudprojectbootcamp.com/users/sign_in
+
+
 Steps cmpleted:<br>
 1) Started by creating a free AWS account and then registering a new DNS name: napstablook.net <br>
   a) setup MFA for root account<br>
