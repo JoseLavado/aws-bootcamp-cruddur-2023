@@ -13,7 +13,8 @@ I also save the ENV variables in Gitpod
 
 ![Gitpod variables](assets/Gitpod_vars.JPG)
 
-
+Here is my Lucid chart
+![Lucid chart](assets/Lucid_Chart.JPG)
 
 Steps cmpleted:<br>
 1) Started by creating a free AWS account and then registering a new DNS name: napstablook.net <br>
