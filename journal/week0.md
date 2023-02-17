@@ -1,6 +1,19 @@
 # Week 0 — Billing and Architecture
 Student portal: https://student.cloudprojectbootcamp.com/users/sign_in
 
+## Required Homework
+
+### Install AWS CLI
+
+I installed the AWS cli in Gitpod via the TASKS commands on the gitpod yaml file according to the instructions
+
+![I installed the AWS cli](assets/Installed_AWS_CLI.png)
+
+I also save the ENV variables in Gitpod
+
+![Gitpod variables](assets/Gitpod_vars.JPG)
+
+
 
 Steps cmpleted:<br>
 1) Started by creating a free AWS account and then registering a new DNS name: napstablook.net <br>
