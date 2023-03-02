@@ -2,7 +2,7 @@
 
 ## Homework challenges 
 
-### Run the docker file CMD 
+### I was able to run the application
 ![docker run CMD](assets/run_docker_cmd_1.JPG)
 ![docker run cmd2](assets/run_docker_cmd_2.JPG)
 
