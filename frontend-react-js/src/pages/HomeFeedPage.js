@@ -72,7 +72,7 @@ export default function HomeFeedPage() {
           activities={activities} 
         />
         <ActivityFeed 
-          title="Home" 
+          title="CASA-HOME" 
           setReplyActivity={setReplyActivity} 
           setPopped={setPoppedReply} 
           activities={activities} 
